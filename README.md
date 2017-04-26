@@ -6,6 +6,8 @@ A driver built on top of [@motorcycle/history](https://github.com/motorcyclejs/h
 and [switch-path](https://github.com/staltz/switch-path) to ease the pain of routing.
 Works server-side and in browsers!
 
+**DEPRECATED!** Please use [the newer Motorcycle.js](https://github.com/motorcyclejs/motorcyclejs)
+
 ## Let me have it!
 ```sh
 npm install --save @motorcycle/router
